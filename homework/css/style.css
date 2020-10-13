@@ -1,0 +1,29 @@
+.header-navigation .btn {
+    background: #111;
+}
+
+.info-text .info-text-button {
+    background: Coral;
+}
+
+.main .game-section-1 {
+    background: #111;
+}
+
+.game-section-1 .card,
+.game-section-2 .card {
+    background: none;
+}
+
+.main .game-section-2 {
+    background: #F8F9FA;
+    /* background: #525252; */
+}
+
+.footer {
+    background: #111;
+}
+
+.subscribe-button .subscribe-button-b {
+  background: lightcoral;
+}
